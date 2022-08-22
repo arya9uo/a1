@@ -1,5 +1,6 @@
-**student name:Jiajia Guo
-**student id: 1135319
+**student name:Jiajia Guo**
+
+**student id: 1135319**
 
 <h1 align="center">Factors Affecting the Use of Yellow Taxis in NYC</h1>
 
