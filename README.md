@@ -1,3 +1,6 @@
+student name:Jiajia Guo
+student id: 1135319
+
 <h1 align="center">Factors Affecting the Use of Yellow Taxis in NYC</h1>
 
 My research goal is to explore the factors affecting the use of yellow taxis in New York City such as Uber and Covid-19.
